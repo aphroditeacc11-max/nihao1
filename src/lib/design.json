@@ -1,0 +1,86 @@
+{
+  "$__": {
+    "activePaths": {
+      "paths": {
+        "projectName": "require"
+      },
+      "states": {
+        "require": {
+          "projectName": true
+        },
+        "default": {},
+        "modify": {}
+      }
+    },
+    "op": null,
+    "saving": null,
+    "saveOptions": null,
+    "validating": null,
+    "cachedRequired": {},
+    "backup": {
+      "activePaths": {
+        "modify": {
+          "projectName": true,
+          "theme": true,
+          "updatedAt": true
+        },
+        "default": {
+          "theme.primaryColor": true,
+          "theme.secondaryColor": true,
+          "theme.fontFamily": true,
+          "theme.darkMode": true,
+          "theme.customTokens": true,
+          "_id": true,
+          "pages": true,
+          "createdAt": true
+        }
+      },
+      "validationError": null
+    },
+    "inserting": true,
+    "savedState": {},
+    "$versionError": null,
+    "getters": {
+      "theme": {
+        "primaryColor": "#0070f3",
+        "secondaryColor": "#7928ca",
+        "darkMode": false,
+        "fontFamily": "Inter",
+        "customTokens": {}
+      }
+    },
+    "nestedPath": "theme"
+  },
+  "_doc": {
+    "projectName": "nihao1",
+    "theme": {
+      "primaryColor": "#0070f3",
+      "secondaryColor": "#7928ca",
+      "darkMode": false,
+      "fontFamily": "Inter",
+      "customTokens": {}
+    },
+    "_id": "69d520e58d7d8edbb8bb6256",
+    "pages": [],
+    "createdAt": "2026-04-07T15:21:09.978Z",
+    "updatedAt": "2026-04-07T15:21:09.980Z",
+    "__v": 0
+  },
+  "$isNew": false,
+  "projectName": "nihao1",
+  "theme": {
+    "primaryColor": "#0070f3",
+    "secondaryColor": "#7928ca",
+    "darkMode": false,
+    "fontFamily": "Inter",
+    "customTokens": {}
+  },
+  "pages": [
+    {
+      "route": "/",
+      "title": "Home",
+      "description": "nihao1 home page",
+      "components": []
+    }
+  ]
+}
